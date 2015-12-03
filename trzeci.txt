@@ -1,0 +1,4 @@
+Trzeci plik - wiersz pierwszy
+wiersz 2
+wiersz 3
+kk.

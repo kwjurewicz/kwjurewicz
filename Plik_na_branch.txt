@@ -2,4 +2,5 @@ Pierwszy plik - wiersz pierwszy
 wiersz 2
 wiersz 3
 wiersz 4
-kk.
+kk
+zadanie3
